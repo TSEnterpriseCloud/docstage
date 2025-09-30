@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktse_dev_api=self.webpackChunktse_dev_api||[]).push([[125],{53587:s=>{s.exports=JSON.parse('{"tag":{"label":"405","permalink":"/docs/tags/405","allTagsPath":"/docs/tags","count":1,"items":[{"id":"basics/status-code","title":"Status Code","description":"Codici stato http usati in TSE","permalink":"/docs/basics/status-code"}],"unlisted":false}}')}}]);

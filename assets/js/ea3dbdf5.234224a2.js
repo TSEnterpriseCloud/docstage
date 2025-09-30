@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktse_dev_api=self.webpackChunktse_dev_api||[]).push([[2969],{66450:s=>{s.exports=JSON.parse('{"tag":{"label":"oauth2","permalink":"/docs/tags/oauth-2","allTagsPath":"/docs/tags","count":1,"items":[{"id":"support/supportlink","title":"Support link","description":"Link supported","permalink":"/docs/support/support-link"}],"unlisted":false}}')}}]);

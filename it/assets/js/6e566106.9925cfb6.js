@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktse_dev_api=self.webpackChunktse_dev_api||[]).push([[716],{95443:t=>{t.exports=JSON.parse('{"tag":{"label":"Prodotti","permalink":"/it/docs/tags/prodotti","allTagsPath":"/it/docs/tags","count":1,"items":[{"id":"products/index","title":"Products","description":"Lista dei prodotti","permalink":"/it/docs/products/"}],"unlisted":false}}')}}]);

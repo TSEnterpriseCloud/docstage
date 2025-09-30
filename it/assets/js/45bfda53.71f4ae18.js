@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktse_dev_api=self.webpackChunktse_dev_api||[]).push([[3679],{80752:s=>{s.exports=JSON.parse('{"tag":{"label":"basics","permalink":"/it/docs/tags/basics","allTagsPath":"/it/docs/tags","count":1,"items":[{"id":"glossary/index","title":"Glossary","description":"Termini Comuni","permalink":"/it/docs/glossary/common-terms"}],"unlisted":false}}')}}]);

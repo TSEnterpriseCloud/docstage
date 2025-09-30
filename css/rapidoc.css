@@ -1,0 +1,4 @@
+rapi-doc::part(section-navbar) { /* <<< targets navigation bar */
+  border-right: 1px solid var(--ifm-toc-border-color);
+  padding-bottom: 20px;
+}

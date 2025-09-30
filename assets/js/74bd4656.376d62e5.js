@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktse_dev_api=self.webpackChunktse_dev_api||[]).push([[567],{53403:s=>{s.exports=JSON.parse('{"tag":{"label":"link","permalink":"/docs/tags/link","allTagsPath":"/docs/tags","count":1,"items":[{"id":"support/supportlink","title":"Support link","description":"Link supported","permalink":"/docs/support/support-link"}],"unlisted":false}}')}}]);

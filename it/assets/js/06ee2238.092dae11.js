@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktse_dev_api=self.webpackChunktse_dev_api||[]).push([[1890],{54420:e=>{e.exports=JSON.parse('{"tag":{"label":"codice","permalink":"/it/docs/beta/tags/codice","allTagsPath":"/it/docs/beta/tags","count":1,"items":[{"id":"basics/index","title":"Basic Notions","description":"Nozioni di base","permalink":"/it/docs/beta/basics/"}],"unlisted":false}}')}}]);
